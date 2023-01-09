@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson_3</string>
+    <string name="button">Нажмите на кнопку</string>
+    <string name="image">Photo</string>
+    <string name="tv_text1">Hello World!</string>
+    <string name="tv_text2">Галочку поставили</string>
+    <string name="tv_text3">Вы сняли галочку</string>
+</resources>
